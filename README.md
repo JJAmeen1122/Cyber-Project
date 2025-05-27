@@ -6,7 +6,7 @@
 
 ---
 
-## **⚡ FEATURES**  
+## ** FEATURES**  
 🔹 **Convert Plain Text → Secure Hash** in one click  
 🔹 **4 Powerful Algorithms**:  
    - **SHA-256** (Fast & Reliable)  
@@ -18,7 +18,7 @@
 🔹 **Wipe Data** – Clear inputs/outputs with a single command  
 
 
-## **🖥️ WHY USE THIS TOOL?**  
+## **WHY USE THIS TOOL?**  
 ✅ **Perfect for:**  
    - Securely storing passwords  
    - Generating API keys  
@@ -34,7 +34,7 @@
 ## **🚀 GET STARTED**  
 ```bash
 pip install bcrypt argon2-cffi
-python3 cyber_hash_converter.py
+python3 cyber_hash_converter1.py
 ```
 
 ---
